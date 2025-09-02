@@ -4,6 +4,7 @@ import Input from "./Input";
 export default {
     title: 'form/Input',
     component: Input,
+    // decorators:[]
 }
 
 export const Small =() =><Input size='small'>Small</Input>
